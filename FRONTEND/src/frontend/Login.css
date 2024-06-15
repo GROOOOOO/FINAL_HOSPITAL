@@ -1,0 +1,30 @@
+/* Login.css */
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.login-container {
+    height: 100vh;
+    position: relative;
+}
+
+.custom-btn {
+    color: green !important;
+    background-color: white !important;
+    border: 1px solid green !important;
+    font-size: 12px;
+}
+
+.custom-btn:hover {
+    color: white !important;
+    background-color: green !important;
+}
+
+.logo-img {
+    width: 100px;
+    /* Adjust size as needed */
+    height: auto;
+    margin-top: 20px;
+}

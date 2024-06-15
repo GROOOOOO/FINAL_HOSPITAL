@@ -1,0 +1,18 @@
+/* homepage.css */
+
+
+.nav-link {
+    color: inherit;
+    /* Inherit text color */
+    text-decoration: none;
+    /* Remove underline */
+    font-weight: bold;
+    /* Make text bold */
+    transition: color 0.3s ease;
+    /* Smooth transition for color change */
+}
+
+.nav-link:hover {
+    color: #4CAF50;
+    /* Green text color on hover */
+}
